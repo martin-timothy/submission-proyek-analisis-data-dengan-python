@@ -12,9 +12,12 @@ Kemudian, pastikan pada komputer lokal sudah terinstall python serta menginstall
 !pip install -r dashboard/requirements.txt
 ```
 
-## Menjalankan Dashboard
+## Menjalankan Dashboard-1
 masuk ke direktori proyek lokal
 ```
 cd submission-proyek-analisis-data-dengan-python/dashboard
 streamlit run Kualitas_Udara.py
 ```
+## Menjalankan Dashboard-2
+Atau dapat menjalankan dashboard dengan menggunakan link dibawah ini
+(https://bz7rfb5zyekufdmuq2skgf.streamlit.app/)
