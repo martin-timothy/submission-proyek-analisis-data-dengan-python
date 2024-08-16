@@ -1,0 +1,10 @@
+folium
+matplotlib
+numpy
+pandas
+plotly
+protobuf
+scikit_learn
+seaborn
+streamlit
+babel
