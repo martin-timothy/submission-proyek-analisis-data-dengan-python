@@ -20,4 +20,4 @@ streamlit run Kualitas_Udara.py
 ```
 ## Menjalankan Dashboard-2
 Atau dapat menjalankan dashboard dengan menggunakan link dibawah ini
-(https://bz7rfb5zyekufdmuq2skgf.streamlit.app/)
+(https://hnvevndqeydrgydqfsh9xu.streamlit.app/)
